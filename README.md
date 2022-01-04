@@ -3,9 +3,9 @@ Blender Add-on and example file for Matt Parker [@standupmath](https://github.co
 
 This repo (my first one) contains the file necessary to animate/create/preview/import and export CSV file for the "500-LED Xmas Tree" created by Matt Parker ( watch the video at the link belove) and Computational Design @GSD6338-Harvard directly in Blender.
 
-NOTE: Working Blender version 3.1 or above 
+NOTE: Working Blender version 3.0 or above 
 
-LINK blender download : https://builder.blender.org/download/daily/
+LINK blender download : https://builder.blender.org/download/
 
 LINK Stand-up Maths Youtube Video : https://www.youtube.com/watch?v=WuMRJf6B5Q4
 
