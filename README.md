@@ -1,7 +1,7 @@
 # Blender 500 LED XmasTree
-Blender Add-on and example file for Matt Parker [@standupmath](https://github.com/standupmaths/xmastree2021) 500 LED Xmas Tree
+Blender Add-on and example file for Matt Parker [@standupmath](https://github.com/standupmaths/xmastree2021) 500 LED and [@GSD6338-Harvard]((https://github.com/GSD6338/XmasTree/) Xmas Tree
 
-This repo (my first one) contains the file necessary to animate/create/preview/import and export CSV file for the "500-LED Xmas Tree" created by Matt Parker ( watch the video at the link belove) directly in Blender.
+This repo (my first one) contains the file necessary to animate/create/preview/import and export CSV file for the "500-LED Xmas Tree" created by Matt Parker ( watch the video at the link belove) and Computational Design @GSD6338-Harvard directly in Blender.
 
 NOTE: Working Blender version 3.0 or above 
 
@@ -11,14 +11,14 @@ LINK Stand-up Maths Youtube Video : https://www.youtube.com/watch?v=WuMRJf6B5Q4
 
 # File and Folder Description
 
-  * /XmasTree_2021.blend :  Blender example file ready to production ; open the file and you will find two readme notes on how to use and understand the file structure and add-on
+  * ../XmasTree_2021.blend :  Blender example file ready to production ; open the file and you will find two readme notes on how to use and understand the file structure and add-on
 
- * /Add-on/XmasTree_Import-Export.py : Add-on installation file
+ * ../Add-on/XmasTree_Import-Export.py : Add-on installation file
   
- * /Coords/coords_2021.csv :  Matt Parker LED coordinates [@standupmath](https://github.com/standupmaths/xmastree2021)                                                                                                                
- * /coords_adjusted.csv : Harvard LED coordinates [@GSD6338-Harvard](https://github.com/GSD6338/XmasTree)
+ * ../Coords/coords_2021.csv :  Matt Parker LED coordinates [@standupmath](https://github.com/standupmaths/xmastree2021)                                                                                                                
+ * ../Coords/coords_adjusted.csv : Harvard LED coordinates [@GSD6338-Harvard-Coords](https://github.com/GSD6338/XmasTree/tree/main/misc)
   
- * /Example_Effect/Fire_Effect.csv : fire effect created with geometry node and exported with add-on
+ * ../Example_Effect/Fire_Effect.csv : fire effect created with geometry node and exported with add-on
                    /....  
   
 #Basic Usage to create new effect
@@ -66,9 +66,9 @@ Wait a few seconds and then start the animation with the play button or spacebar
 3. Open file browser
 4. press button to load data
 
+#CONCLUSION
 
+I'm not a good coder so the add-on may be instable, you're free to inspect/modify my code as well as the blender example file.
 
-
-
-
+File in COORDS folder are provided by [@standupmath](https://github.com/standupmaths/xmastree2021) and [@GSD6338-Harvard](https://github.com/GSD6338/XmasTree)
 
