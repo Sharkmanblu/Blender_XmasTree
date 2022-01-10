@@ -21,7 +21,7 @@ LINK Stand-up Maths Youtube Video : https://www.youtube.com/watch?v=WuMRJf6B5Q4
  * ../Example_Effect/Fire_Effect.csv : fire effect created with geometry node and exported with add-on
                    /....  
   
-#Basic Usage to create new effect
+# Basic Usage to create new effect
 Open blender example file and strat the animation with he play button or with the spacebar key, you will see the Fire_Effect in real time calculated by the geometry node group.
 
 Install the add-on via "Edit->Preferences->Add-Ons->install", selecting the downloaded "XmasTree_Import-Export.py", install it and activate it.
@@ -50,7 +50,7 @@ When you're happy with the result open the Xmas Tree panel and the export subpan
 
 
 
-#Basic Usage to load effect
+# Basic Usage to load effect
 
 Hide GeoNode collecion and unhide Import Tree one. 
 
@@ -66,7 +66,7 @@ Wait a few seconds and then start the animation with the play button or spacebar
 3. Open file browser
 4. press button to load data
 
-#CONCLUSION
+# CONCLUSION
 
 I'm not a good coder so the add-on may be instable, you're free to inspect/modify my code as well as the blender example file.
 
